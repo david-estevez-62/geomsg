@@ -1,12 +1,10 @@
 # geomsg
 
 
-## About:   A location based msg feed
-
-____________________________________________________________________________________________
+### About:   A location based msg feed
 
 
-## For Developers:
+### For Developers:
 - clone the repo in the desired location (in this case https://github.com/ehruska/geomsg.git)
 - cd into the cloned directory (in this case the geomsg directory)
 - npm install node modules for the project
